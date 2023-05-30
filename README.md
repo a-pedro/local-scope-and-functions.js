@@ -1,0 +1,1 @@
+# local-scope-and-functions.js
